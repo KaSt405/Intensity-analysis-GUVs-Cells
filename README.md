@@ -4,4 +4,4 @@ If the file for analysis is a z-stack, it will be converted to a maximum intensi
 One image channel can be selected, which will define the area for the intensity measurement via thresholding, that can be entered.
 Channels whose intesity should be measured in the defined area, can be selected.
 
-Important: Close all files in ImageJ before using the macro, then open the file for analysis.
+IMPORTANT: Close all files in ImageJ before using the macro, then open the file for analysis.
